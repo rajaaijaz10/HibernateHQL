@@ -12,6 +12,7 @@ public class Employee {
     private String name;
     private double Salary;
     private String email;
+    private String dem;
 
     public Employee() {
 
